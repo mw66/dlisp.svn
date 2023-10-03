@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dlisp
+dlisp.so
+dlisp.dylib
+dlisp.dll
+dlisp.a
+dlisp.lib
+dlisp-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
